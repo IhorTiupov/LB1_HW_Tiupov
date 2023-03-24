@@ -7,7 +7,6 @@ namespace l1
 {
 	Txt::Txt() = default;
 	
-
 	Txt::~Txt()noexcept
 	{
 		if (data != nullptr)
